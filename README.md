@@ -1,1 +1,1 @@
-# Panel-Data-Estimation-With-R
+# Panel Data Estimation with R
